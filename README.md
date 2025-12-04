@@ -38,7 +38,7 @@ I use this GitHub to share simplified versions of professional tools that help I
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect With Me
 
 If you need a partner to discuss IT Governance, Custom Application Development, or System Audits, feel free to reach out.
 
