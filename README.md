@@ -33,7 +33,7 @@ My goal is to provide IT solutions that are not just functional code, but are al
 I use this GitHub to share simplified versions of professional tools that help IT Managers and Business Owners make better decisions:
 
 * **[SLA & Downtime Calculator](https://edgarcia-id.github.io/sla-downtime-calculator/):** A tool to calculate allowed downtime based on Service Level Agreements.
-* **Simple IT Risk Assessment:** *[Coming Soon]* A web-based matrix to calculate IT Asset risks (ISO 31000/27005 concept).
+* **[Simple IT Risk Assessment](https://edgarcia-id.github.io/simple-it-risk-assessment/):** A web-based matrix to calculate IT Asset risks (ISO 31000/27005 concept).
 * **PHP Native Starter Kit:** *[Coming Soon]* A secure, clean structure for building business apps without heavy frameworks.
 
 ---
