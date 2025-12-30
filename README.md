@@ -28,18 +28,21 @@ My goal is to provide IT solutions that are not just functional code, but are al
 
 ---
 
-### 🚀 Open Source & "Trust Index" Tools
+### 🚀 Open Source Tools
 
-I use this GitHub to share simplified versions of professional tools that help IT Managers and Business Owners make better decisions:
+I use this GitHub to share simplified versions of professional tools that help IT Managers and Business Owners make better decisions.
 
-* **[SLA & Downtime Calculator](https://edgarcia-id.github.io/sla-downtime-calculator/):** A tool to calculate allowed downtime based on Service Level Agreements.
-* **[Simple IT Risk Assessment](https://edgarcia-id.github.io/simple-it-risk-assessment/):** A web-based matrix to calculate IT Asset risks (ISO 31000/27005 concept).
+#### ✅ Live Tools (Ready to Use)
+* **[SLA & Downtime Calculator](https://edgarcia-id.github.io/sla-downtime-calculator/)** ⏱️
+  <br>A precision tool to calculate allowed downtime based on Service Level Agreements (99.9% vs 99.99%).
+* **[Simple IT Risk Assessment](https://edgarcia-id.github.io/simple-it-risk-assessment/)** 🛡️
+  <br>A web-based matrix to identify and calculate IT Asset risks using ISO 27005 concepts (Includes CSV Export).
+* **[Vendor Evaluation Scorecard](https://edgarcia-id.github.io/vendor-evaluation-scorecard/)** ⚖️
+  <br>A Decision Support System (DSS) to rank vendors objectively based on weighted criteria (Price, SLA, Experience).
 
 #### 🚧 Coming Soon (Roadmap)
 * **PHP Native Secure Starter** A clean, pre-configured structure for building secure business apps without heavy frameworks (PDO, CSRF Protection, MVC pattern).
-* **Vendor Evaluation Scorecard (SPK)** A decision-support tool for IT Procurement. Compare vendors objectively using weighted criteria (Price, SLA, Experience).
 * **IT Asset Depreciation Calculator** Bridging IT and Finance. A tool to calculate server/laptop value depreciation using Straight-Line or Declining Balance methods.
-
 ---
 
 ### 🤝 Let's Connect With Me
