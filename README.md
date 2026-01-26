@@ -41,9 +41,11 @@ I use this GitHub to share simplified versions of professional tools that help I
   <br>A Decision Support System (DSS) to rank vendors objectively based on weighted criteria (Price, SLA, Experience).
 * **[IT Asset Depreciation Calculator](https://edgarcia-id.github.io/it-asset-depreciation/)** 📉
   <br>Bridging IT and Finance. Calculate server/laptop Monthly & Yearly depreciation to estimate OpEx/Budget.
+* **[IT Daily Activity Logger](https://edgarcia-id.github.io/it-activity-logger/)** 📝
+  <br>A standardized timesheet generator. Logs daily tasks and exports signed PDF reports for Audit Evidence.
 
 #### 🚧 Coming Soon (Roadmap)
-* **IT Daily Activity Logger (Timesheet)** A standardized logbook tool for IT teams to record daily tasks, incidents, and maintenance. Generates PDF reports for Audit Evidence.
+* **IT Change Request Generator** Create standardized RFC (Request for Change) documents with Risk Assessment & Rollback Plans.
 * **PHP Native Secure Starter** A clean, pre-configured structure for building secure business apps without heavy frameworks (PDO, CSRF Protection, MVC pattern).
 
 ---
