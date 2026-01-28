@@ -28,7 +28,7 @@ My goal is to provide IT solutions that are not just functional code, but are al
 
 ---
 
-### 🚀 Open Source & "Trust Index" Tools
+### 🚀 Open Source Tools
 
 I use this GitHub to share simplified versions of professional tools that help IT Managers and Business Owners make better decisions.
 
