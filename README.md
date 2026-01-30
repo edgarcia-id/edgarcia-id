@@ -11,7 +11,7 @@ My goal is to provide IT solutions that are not just functional code, but are al
 ### 🧐 About Me
 
 * 💼 **Founder & Principal:** I run **[Nusa Industri Teknologi](https://nusait.com)**, an IT consulting vendor serving various industries.
-* 🛡️ **Governance Focus:** I specialize in aligning IT operations with business processes, focusing on Procurement Standards, HRIS flows, and Risk Management.
+* 🛡️ **Governance Focus:** I specialize in aligning IT operations with business processes, focusing on Procurement Standards, HRIS flows, Business Operations, and Risk Management.
 * 💻 **Developer at Heart:** I believe in "Reachable Code". I build applications using **PHP Native** and **JavaScript** that are robust, secure, and easy to maintain without over-engineering.
 * 📈 **Market Enthusiast:** I actively develop algorithms for stock market analysis (IDX) using Python & Dash.
 
