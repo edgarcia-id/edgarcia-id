@@ -45,6 +45,8 @@ I use this GitHub to share simplified versions of professional tools that help I
   <br>A standardized timesheet generator. Logs daily tasks and exports signed PDF reports for Audit Evidence.
 * **[IT Work Plan & Realization (RKB/RKM)](https://edgarcia-id.github.io/it-workplan-realization/)** 📊
   <br>A management tool to track Weekly/Monthly Work Plans vs Actual Realization and calculate KPI success rates.
+* **[UU PDP Readiness Audit & Self-Assessment Tool](https://edgarcia-id.github.io/uupdp-readiness-checker/)** 📊
+  <br>A comprehensive, client-side Gap Analysis tool to evaluate organizational compliance with Indonesia's Personal Data Protection Law (Undang-Undang Pelindungan Data Pribadi / UU PDP No. 27 Tahun 2022).
 
 #### 🚧 Coming Soon (Roadmap)
 * **IT Change Request Generator** Create standardized RFC (Request for Change) documents with Risk Assessment & Rollback Plans.
