@@ -1,5 +1,8 @@
 # Hi, I'm Ed Garcia 👋
 
+### [![Live Website](https://img.shields.io/badge/Live_Website-edgarcia--id.github.io-blue?style=for-the-badge)](https://edgarcia-id.github.io)
+[![Maintained By](https://img.shields.io/badge/Maintained_By-NusaIT-indigo?style=for-the-badge)](https://nusait.com)
+
 ### IT Governance Consultant & Principal at [NusaIT](https://nusait.com)
 
 I am an experienced IT Consultant based in Indonesia, bridging the gap between **Complex Compliance Standards** (ISO/SNI) and **Practical Software Solutions**. 
