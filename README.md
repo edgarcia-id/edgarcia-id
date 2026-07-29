@@ -52,6 +52,8 @@ I use this GitHub to share simplified versions of professional tools that help I
   <br>A comprehensive, client-side Gap Analysis tool to evaluate organizational compliance with Indonesia's Personal Data Protection Law (Undang-Undang Pelindungan Data Pribadi / UU PDP No. 27 Tahun 2022).
 * **[ERP Implementation ROI Calculator](https://edgarcia-id.github.io/erp-roi-calculator/)** 📈
   <br>Translate IT efficiency into financial metrics. Calculate Payback Period, ROI, and generate Executive Business Case PDFs for ERP proposals.
+* **[Open-Source IT Policy Templates](https://github.com/edgarcia-id/it-policy-templates)** 📝
+  <br>A curated library of Markdown-based SOPs and IT Policies (Acceptable Use, Backup & Restore, Incident Response) designed for ISO 27001 and UU PDP readiness.
 
 #### 🚧 Coming Soon (Roadmap)
 * **IT Change Request Generator** Create standardized RFC (Request for Change) documents with Risk Assessment & Rollback Plans.
