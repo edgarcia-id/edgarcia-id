@@ -22,12 +22,12 @@ My goal is to provide IT solutions that are not just functional code, but are al
 
 ### 🛠️ Technical & Professional Stack
 
-| **Governance & Business** | **Development** | **Tools & Others** |
-| :--- | :--- | :--- |
-| ✅ IT Audit & Compliance | 🐘 PHP (Native & PDO) | 🐧 Linux / Server Admin |
-| 📊 Business Process Modeling | 💛 JavaScript (ES6+) | 🗄️ MySQL / MariaDB |
-| 📝 SLA & Vendor Management | 🐍 Python (Data Analysis) | ⚡ Bootstrap & Tailwind |
-| 🔐 Risk Management (ISO) | 🌐 REST API Integration | 💹 TradingView / Charting |
+| **Governance & Business** | **Development** | **Tools & Others** | **AI & Automation** |
+| :--- | :--- | :--- | :--- |
+| ✅ IT Audit & Compliance | 🐘 PHP (Native & PDO) | 🐧 Linux / Server Admin | 🤖 AI Workflow Automation |
+| 📊 Business Process Modeling | 💛 JavaScript (ES6+) | 🗄️ MySQL / MariaDB | ⚙️ Google Opal / LLM Integration |
+| 📝 SLA & Vendor Management | 🐍 Python (Data Analysis) | ⚡ Bootstrap & Tailwind | 🔄 Data-Heavy Task Automation |
+| 🔐 Risk Management (ISO) | 🌐 REST API Integration | 💹 TradingView / Charting | 📈 Technical Screener Logic |
 
 ---
 
