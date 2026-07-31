@@ -54,6 +54,8 @@ I use this GitHub to share simplified versions of professional tools that help I
   <br>Translate IT efficiency into financial metrics. Calculate Payback Period, ROI, and generate Executive Business Case PDFs for ERP proposals.
 * **[Open-Source IT Policy Templates](https://github.com/edgarcia-id/it-policy-templates)** 📝
   <br>A curated library of Markdown-based SOPs and IT Policies (Acceptable Use, Backup & Restore, Incident Response) designed for ISO 27001 and UU PDP readiness.
+* **[AI Helpdesk Triage Simulator](https://edgarcia-id.github.io/ai-helpdesk-triage/)** 🧠
+  <br>An architectural showcase demonstrating how to use strict Prompt Engineering and JSON schemas to automate IT ticket classification and routing.
 
 #### 🚧 Coming Soon (Roadmap)
 * **IT Change Request Generator** Create standardized RFC (Request for Change) documents with Risk Assessment & Rollback Plans.
