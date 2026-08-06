@@ -56,9 +56,10 @@ I use this GitHub to share simplified versions of professional tools that help I
   <br>A curated library of Markdown-based SOPs and IT Policies (Acceptable Use, Backup & Restore, Incident Response) designed for ISO 27001 and UU PDP readiness.
 * **[AI Helpdesk Triage Simulator](https://edgarcia-id.github.io/ai-helpdesk-triage/)** 🧠
   <br>An architectural showcase demonstrating how to use strict Prompt Engineering and JSON schemas to automate IT ticket classification and routing.
+* **[Enterprise IT Change Request (RFC) Generator](https://edgarcia-id.github.io/it-change-request-generator/)** 🔄
+  <br>An automated Change Advisory Board (CAB) workflow engine. Calculates Change Risk Matrix, enforces mandatory DRP/Rollback plans, and exports audit-ready RFC PDF reports.
 
 #### 🚧 Coming Soon (Roadmap)
-* **IT Change Request Generator** Create standardized RFC (Request for Change) documents with Risk Assessment & Rollback Plans.
 * **PHP Native Secure Starter** A clean, pre-configured structure for building secure business apps without heavy frameworks (PDO, CSRF Protection, MVC pattern).
 
 ---
