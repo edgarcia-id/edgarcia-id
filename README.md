@@ -62,12 +62,12 @@ I use this GitHub to share simplified versions of professional tools that help I
   <br>Standardized Site Reliability Engineering (SRE) reporting engine. Conduct the "5 Whys" Root Cause Analysis, quantify downtime SLA, and export executive audit dossiers.
 * **[Enterprise AHP Decision Engine](https://edgarcia-id.github.io/ahp-decision-engine/)** ⚖️
   <br>A dynamic mathematical tool using the Analytic Hierarchy Process (AHP) to calculate objective weights and Consistency Ratios (CR) for IT Vendor & Architecture selection.
+* **[Bayesian IT Risk & Alert Analyzer](https://edgarcia-id.github.io/bayesian-risk-analyzer/)** 🎲
+  <br>Calculate the actual probability of a cyber breach when an IDS/EDR alert triggers, using Bayes' Theorem to demonstrate and defeat the Base Rate Fallacy.
 * **[AI B2B Pitch Architect](https://edgarcia-id.github.io/ai-b2b-pitch-architect/)** 🎯
   <br>A zero-hallucination B2B automation tool using strict Prompt Architecture to generate PAS/AIDA sales copy formatted as CRM-ready JSON.
   
 #### 🚧 Coming Soon (Roadmap)
-* **Bayesian IT Risk & Alert Analyzer** 🎲
-  <br>Calculate the actual probability of a cyber breach when an IDS/EDR alert triggers, using Bayes' Theorem to demonstrate and defeat the Base Rate Fallacy.
 * **PHP Native Secure Starter** 🐘
   <br>A clean, pre-configured structure for building secure business apps without heavy frameworks (PDO, CSRF Protection, MVC pattern, Role-Based Access Control).
 
