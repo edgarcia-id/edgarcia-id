@@ -36,9 +36,9 @@ My goal is to provide IT solutions that are not just functional code, but are al
 I use this GitHub to share simplified versions of professional tools that help IT Managers and Business Owners make better decisions.
 
 #### ✅ Live Tools (Ready to Use)
-* **[SLA & Downtime Calculator](https://edgarcia-id.github.io/sla-downtime-calculator/)** ⏱️
+* **[SLA & Downtime Calculator](https://edgarcia-id.github.io/sla-downtime-calculator/)** ⏱️️
   <br>A precision tool to calculate allowed downtime based on Service Level Agreements (99.9% vs 99.99%).
-* **[Simple IT Risk Assessment](https://edgarcia-id.github.io/simple-it-risk-assessment/)** 🛡️
+* **[Simple IT Risk Assessment](https://edgarcia-id.github.io/simple-it-risk-assessment/)** 🛡️️
   <br>A web-based matrix to identify and calculate IT Asset risks using ISO 27005 concepts (Includes CSV Export).
 * **[Vendor Evaluation Scorecard](https://edgarcia-id.github.io/vendor-evaluation-scorecard/)** ⚖️
   <br>A Decision Support System (DSS) to rank vendors objectively based on weighted criteria (Price, SLA, Experience).
@@ -66,6 +66,10 @@ I use this GitHub to share simplified versions of professional tools that help I
   <br>Calculate the actual probability of a cyber breach when an IDS/EDR alert triggers, using Bayes' Theorem to demonstrate and defeat the Base Rate Fallacy.
 * **[AI B2B Pitch Architect](https://edgarcia-id.github.io/ai-b2b-pitch-architect/)** 🎯
   <br>A zero-hallucination B2B automation tool using strict Prompt Architecture to generate PAS/AIDA sales copy formatted as CRM-ready JSON.
+* **[Enterprise TOPSIS Decision Engine](https://edgarcia-id.github.io/topsis-decision-engine/)** 📊
+  <br>A Multi-Criteria Decision Making (MCDM) tool to objectively rank IT vendors and procurement options based on their geometric distance to the ideal theoretical solution.
+* **[Enterprise Decision Tree Calculator](https://edgarcia-id.github.io/decision-tree-calculator/)** 🌳
+  <br>A probabilistic Decision Support System to evaluate business options under uncertainty, calculate Expected Monetary Value (EMV), and generate audit-ready strategic reports.
   
 #### 🚧 Coming Soon (Roadmap)
 * **PHP Native Secure Starter** 🐘
