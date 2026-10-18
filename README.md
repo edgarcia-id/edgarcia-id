@@ -71,7 +71,8 @@ I use this GitHub to share simplified versions of professional tools that help I
 * **[Enterprise Decision Tree Calculator](https://edgarcia-id.github.io/decision-tree-calculator/)** 🌳
   <br>A probabilistic Decision Support System to evaluate business options under uncertainty, calculate Expected Monetary Value (EMV), and generate audit-ready strategic reports.
 
-  #### 🎓 Decision Lab v2 — Free Decision Calculators for Students
+
+#### 🎓 Decision Lab v2 — Free Decision Calculators for Students
 A second-generation suite of decision-method calculators for students, lecturers, and researchers. Each tool runs 100% in the browser (no account, no server, no cost), shows every calculation step, and exports thesis-ready reports. Interface in Bahasa Indonesia.
 
 * **[AHP Decision Engine v2](https://edgarcia-id.github.io/ahp-decision-engine-v2/)** ⚖️
@@ -84,7 +85,8 @@ A second-generation suite of decision-method calculators for students, lecturers
   <br>Build decision trees or payoff tables with variables and formulas. EMV rollback with optimal policy, criteria under uncertainty (Maximax, Maximin, Hurwicz, Laplace, Minimax Regret), risk profiles, utility and certainty equivalents, tornado/spider/two-way sensitivity, EVPI, Bayesian revision, and EVSI. Exports PDF, Word, and Excel with live rollback formulas.
 * **[Bayesian Calculator Engine v2](https://edgarcia-id.github.io/bayesian-calculator-engine-v2/)** 🎲
   <br>Build multi-state Bayesian networks with exact inference and hard/soft evidence. Includes most probable explanation (MPE), evidence conflict, value of information, parameter sensitivity, d-separation, decision analysis, and CPT learning from data (EM). Imports/exports GeNIe (.xdsl) and BIF; exports PDF, Word, and Excel with live formulas.
-  
+
+
 #### 🚧 Coming Soon (Roadmap)
 * **PHP Native Secure Starter** 🐘
   <br>A clean, pre-configured structure for building secure business apps without heavy frameworks (PDO, CSRF Protection, MVC pattern, Role-Based Access Control).
